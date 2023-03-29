@@ -1,1 +1,1 @@
-# 3D-models
+3D models for different life situations.
